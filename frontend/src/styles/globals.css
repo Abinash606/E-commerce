@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Outnet+WebXL:wght@400;700&display=swap");
+
+/* Apply global font-family */
+body {
+  font-family: "Outnet WebXL", sans-serif;
+}
